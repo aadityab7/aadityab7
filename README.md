@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadityab7 (Aaditya Bansal) a 3rd Year (B.Tech + M.Tech) - IT student at IIPS - DAVV
-- 👀 I’m interested in sciences and digital art (also COMPUTERS are LIFE!!!) 
+- 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning and practicing Competitive Programming with C++, Data Science and Machine Learning with Python.
 - 💞️ I’m looking to collaborate on some Competitive Programming, Data Science, Machine Learning and Open Source Stuff ...
 - 📫 How to reach me adiatur@gmail.com
