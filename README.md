@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aadityab7 (Aaditya Bansal) a 3rd Year (B.Tech + M.Tech) - IT student at IIPS - DAVV
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning and practicing Competitive Programming with C++, Data Science and Machine Learning with Python.
-- 💞️ I’m looking to collaborate on some Competitive Programming, Data Science, Machine Learning and Open Source Stuff ...
-- 📫 How to reach me adiatur@gmail.com
+- 👋 Hi, I’m @aadityab7 (Aaditya Bansal)
+- I am pursuing Integrated Masters and Bachlors in Technology (IT) from IIPS - DAVV, Indore - 5th (Final) Year Student.
+- 👀 I’m interested in Data Science, Data Engineering, Machine Learning and AI.
+- 🌱 I’m currently building Full stack web projects utilizing my skills in Data Science, ML and AI with Python's Flask micro-framework.
+- 💞️ I’m looking to collaborate on some Data Science, Machine Learning and Open Source AI Projects ...
+- 📫 Reach me at adiatur@gmail.com
 
 <!---
 aadityab7/aadityab7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
