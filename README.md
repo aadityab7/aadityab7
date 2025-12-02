@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @aadityab7 (Aaditya Bansal)
-- I am pursuing Integrated Masters and Bachlors in Technology (IT) from IIPS - DAVV, Indore - 5th (Final) Year Student.
-- 👀 I’m interested in Data Science, Data Engineering, Machine Learning and AI.
-- 🌱 I’m currently building Full stack web projects utilizing my skills in Data Science, ML and AI with Python's Flask micro-framework.
-- 💞️ I’m looking to collaborate on some Data Science, Machine Learning and Open Source AI Projects ...
+- 🤖 AI TUTOR at xAI 🦾
+- 👨🏻‍💻 Previously worked as an LLM Python Engineer at Turing
+- 🤩 Interned as a Data Engineer at CareSage.AI
+- 💞️ Passionate about Data Science and Machine Learning
+- 💻 Kaggle Competitions Expert
+- 📖 Integrated Masters and Bachlors in Technology (IT) from IIPS - DAVV, Indore.
+-  
 - 📫 Reach me at adiatur@gmail.com
 
 <!---
